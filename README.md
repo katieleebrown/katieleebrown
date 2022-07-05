@@ -2,7 +2,7 @@
 A Full-Stack Software Engineer from Cary, NC
 
 - ⚡ You can see my portfolio here: https://katieleebrown.netlify.app
-- 🌱 I’m currently learning React and Tailwind
+- 🌱 I’m currently learning React and Bootstrap
 - :framed_picture: Checkout the code for my current Full Stack App, MuseMembers, a CMS for Museums!
 - 👯 Take a look at my side project, The Gilded Goat (a TTRPG Resource): https://thegildedgoat.netlify.app
 - 📫 How to reach me: katieleebrown19@gmail.com
