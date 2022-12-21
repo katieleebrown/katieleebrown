@@ -3,8 +3,8 @@ A Full-Stack Software Engineer from Cary, NC
 
 - ⚡ You can see my portfolio here: https://katieleebrown.netlify.app
 - 🌱 I’m currently learning React and Bootstrap
-- :framed_picture: Checkout my most recent fullstack app, MuseMembers: https://musemembers.herokuapp.com/
-- :heart_eyes_cat: Take a look at my side project, a social media site to share your cats: https://only-meows.herokuapp.com/
+- :framed_picture: Checkout my most recent fullstack app, MuseMembers: https://tame-lime-pig-tie.cyclic.app/
+- :heart_eyes_cat: Take a look at my side project, a social media site to share your cats: https://lazy-bull-kerchief.cyclic.app/
 - 📫 How to reach me: katieleebrown19@gmail.com
 
 --
